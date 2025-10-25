@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "app": "AR.ClimateWorldBuilder",
+    "version": "0.2",
+    "timestamp": "2025-10-25T10:06:17.630370Z"
+  },
+  "inputs": {
+    "world_name": "Overmorrow \u2014 Founders Basin",
+    "latitude_deg": 52.0,
+    "hemisphere": "N",
+    "tilt": "Earth-like",
+    "daylength_override": null,
+    "elevation_m": 120,
+    "topography": "Basin",
+    "ocean_distance": "Near-coastal (50\u2013200 km)",
+    "ocean_current": "Warm",
+    "prevailing_wind": "Westerly (W\u2192E)",
+    "orography_position": "Windward",
+    "atmo_quirks": [
+      "High humidity haze"
+    ],
+    "moisture_pattern": "Winter westerlies",
+    "precip_mm": 700,
+    "t_warm_high_c": 22.0,
+    "t_cool_low_c": 1.0,
+    "diurnal_swing": "Low (coastal/cloudy)",
+    "extremes": [
+      "Hail"
+    ],
+    "building_uses": [
+      "Residential",
+      "Civic",
+      "Market"
+    ]
+  }
+}
